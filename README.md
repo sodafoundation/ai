@@ -1,2 +1,2 @@
 # ai
-All AI Projects of SODA Foundations are linked here.
+All AI Projects of SODA Foundations : Visit [SODA FOUNDATION AI GitHub Organization](https://github.com/sodafoundation-ai)
